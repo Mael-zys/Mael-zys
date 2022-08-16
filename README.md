@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mael-zys)](https://github.com/Mael-zys/yangsong-github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mael-zys&count_private=true)](https://github.com/Mael-zys/yangsong-github-readme-stats)
 
 LeetCode:
 
