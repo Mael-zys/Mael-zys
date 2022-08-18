@@ -4,7 +4,7 @@
 
 LeetCode:
 
-![img](http://fc.dianhsu.top/lc?user=mael-zys-2&loc=cn&req=rating)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mael-zys-2?ext=activity&site=cn)](https://leetcode.cn/mael-zys-2)
 
 <!--
 **Mael-zys/Mael-zys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
